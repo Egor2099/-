@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+header{
+ background-color: skyblue;
+ margin: 20px;
+ padding: 10px;
+ color: darkblue;
+ border-radius: 7px;
+}
+header a{
+    background-color: white;
+    border-radius: 6px;
+    padding: 5px;
+    text-decoration: none;
+}
+h1{
+    color: orange;
+    border: 5px solid purple;
+    border-radius: 20px;
+    text-align: center
+}
+footer{
+    border: 5px solid pink;
+}
